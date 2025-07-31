@@ -5,7 +5,7 @@
 <header class="bg-white shadow-sm border-b">
     <div class="container mx-auto px-4 py-4">
         <div class="flex items-center justify-between">
-            <h1 class="text-2xl font-bold text-gray-900">FastStore</h1>
+            <h1 class="text-2xl font-bold text-gray-900">ZammarBrand</h1>
             <nav class="hidden md:flex space-x-6">
                 <a href="/" class="text-gray-600 hover:text-gray-900">Home</a>
                 <a href="/product" class="text-blue-600 font-semibold">Shop</a>

@@ -5,7 +5,7 @@
 <header class="bg-white shadow-sm border-b">
     <div class="container mx-auto px-4 py-4">
         <div class="flex items-center justify-between">
-            <h1 class="text-2xl font-bold text-gray-900">FastStore</h1>
+            <h1 class="text-2xl font-bold text-gray-900">ZammarBrand</h1>
             <nav class="hidden md:flex space-x-6">
                 <a href="/product" class="text-gray-600 hover:text-gray-900">Shop</a>
                 <a href="/product" class="text-gray-600 hover:text-gray-900">About</a>
@@ -23,7 +23,7 @@
 <!-- Hero Section -->
 <section class="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-20">
     <div class="container mx-auto px-4 text-center">
-        <h2 class="text-5xl font-bold mb-4">Welcome to FastStore</h2>
+        <h2 class="text-5xl font-bold mb-4">Welcome to ZammarBrand</h2>
         <p class="text-xl mb-8">Discover amazing products at unbeatable prices</p>
         <a href="/product" class="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-gray-100 transition duration-200">
             Shop Now
@@ -153,7 +153,7 @@
     <div class="container mx-auto px-4">
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-                <h4 class="font-bold text-lg mb-4">FastStore</h4>
+                <h4 class="font-bold text-lg mb-4">ZammarBrand</h4>
                 <p class="text-gray-400">Your trusted online shopping destination</p>
             </div>
             <div>
